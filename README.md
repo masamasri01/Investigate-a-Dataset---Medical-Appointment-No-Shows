@@ -1,8 +1,7 @@
 # Investigate-a-Dataset---Medical-Appointment-No-Shows
 Data analysis on a dataset that shows 14 characteristics of 110527 medical appointments.
-Here's a LinkedIn project description based on your analysis:
 
----
+Notebook on Kaggle: https://www.kaggle.com/code/masamasri/medical-no-show-by-masa
 
 **Project: Investigating Factors Influencing Medical Appointment No-Shows**
 
