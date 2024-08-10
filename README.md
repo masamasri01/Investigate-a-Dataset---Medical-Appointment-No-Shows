@@ -8,7 +8,7 @@ Here's a LinkedIn project description based on your analysis:
 
 **Overview:**
 In this project, I analyzed a dataset containing 110,527 medical appointment records to understand the factors influencing patient no-shows. The dataset includes 14 characteristics such as age, gender, and various health conditions. The goal was to uncover patterns and draw actionable insights to improve appointment adherence.
-
+This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
 **Key Tasks:**
 
 - **Data Wrangling:**
